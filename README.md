@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 "I'm currently working on personal projects and everything that stops the itch in my brain.<br><br>Experienced Application Developer proficient in a diverse range of<br>areas, including Frontend and Backend Development, Server Configu-<br>ration, Network Administration, and Game and App Development.<br>Recognized for a strong team-oriented approach, exceptional prob-<br>lem-solving skills, and a commitment to delivering high-quality solutions<br>with a focus on innovation and efficiency.
+🔭 "I'm currently working on personal projects and everything that stops the itch in my brain.<br><br>Experienced Developer proficient in a diverse range of<br>areas, including Frontend and Backend Development, Server Configu-<br>ration, Network Administration, Game and App Development.<br>Recognized for a strong team-oriented approach, exceptional prob-<br>lem-solving skills, and a commitment to delivering high-quality solutions<br>with a focus on innovation and efficiency.
 
 
 ## 🌐 Socials:
